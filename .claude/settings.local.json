@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\Users\\bojan\\source\\narodna-inicijativa\")",
+      "Bash(claude mcp:*)",
+      "Bash(npx:*)",
+      "Bash(node test-playwright.js:*)",
+      "Bash(npm install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
