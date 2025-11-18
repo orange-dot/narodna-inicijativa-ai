@@ -5,7 +5,14 @@
       "Bash(claude mcp:*)",
       "Bash(npx:*)",
       "Bash(node test-playwright.js:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "WebFetch(domain:*)",
+      "Read(c:\\Users\\bojan\\source\\narodna-inicijativa\\**)",
+      "Write(c:\\Users\\bojan\\source\\narodna-inicijativa\\**)",
+      "Edit(c:\\Users\\bojan\\source\\narodna-inicijativa\\**)",
+      "Grep(*)",
+      "Glob(*)",
+      "mcp__playwright"
     ],
     "deny": [],
     "ask": []
