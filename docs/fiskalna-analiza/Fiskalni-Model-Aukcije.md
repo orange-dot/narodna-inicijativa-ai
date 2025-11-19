@@ -57,11 +57,11 @@
 - Nijedan scenario ne pokazuje fiskalni profit
 - Neizvesnost je EKSTREMNA zbog nedostajućih podataka
 
-**PREPORUKA:** STOP na Checkpoint 2 zbog:
-1. Nepovoljne fiskalne projekcije u svim scenarijima
-2. Visokog rizika od online migracije (nemoguće kvantifikovati)
-3. Strukturalnog pada kontinuiranih poreza (44% trenutnih prihoda)
-4. Nedostatka empirijskih podataka za verifikovane projekcije
+**KLJUČNI NALAZI:**
+1. Nepovoljna fiskalna projekcija u svim scenarijima
+2. Visok rizik od online migracije (nemoguće kvantifikovati)
+3. Strukturalni pad kontinuiranih poreza (44% trenutnih prihoda)
+4. Nedostatak empirijskih podataka za verifikovane projekcije
 
 ---
 
@@ -1649,14 +1649,12 @@ Ovo može uzrokovati politički otpor od strane primaoca sredstava.
    - Redukcija broja objekata → GGR pada
    - Ovaj pad je UNAVOIDABLE
 
-### B. Preporuka za Checkpoint 2
+### B. Analiza rizika za Checkpoint 2
 
-**PREPORUKA: STOP**
+**KLJUČNI NALAZI:**
 
-**Obrazloženje:**
-
-**Fiskalni razlozi:**
-- Očekivani gubitak -40% je prevelik da bi bio prihvatljiv
+**Fiskalni rizici:**
+- Očekivani gubitak -40%
 - Verovatnoća fiskalnog profita <10%
 - Rizik je asimetričan (više downside nego upside)
 
@@ -1665,8 +1663,7 @@ Ovo može uzrokovati politički otpor od strane primaoca sredstava.
 - Projekcije imaju ogromne neizvesnosne opsege
 - Odluka bi bila zasnovana na spekulacijama, ne podacima
 
-**Alternativni pristupi:**
-Pre nego što se zaustavi potpuno, razmotriti:
+**Alternativni pristupi za razmatranje:**
 
 1. **Pilot program:**
    - Testirati ograničenja u 2-3 opštine (eksperimentalni dizajn)
@@ -1990,9 +1987,9 @@ Ovaj matematički model je **transparentan, verifikabilan i zasnovan na svim dos
    - Potrebni aukcijski multiplikatori (15-30×) su neralistični
    - Strukturalni pad GGR ne može se nadoknaditi
 
-**PREPORUKA ZA CHECKPOINT 2: STOP**
+**ZAKLJUČAK ANALIZE:**
 
-Fiskalni rizik je prevelik da bi bio prihvatljiv. Potrebna dodatna istraživanja, pilot programi, ili razmatranje alternativnih politika.
+Model identifikuje značajan fiskalni rizik. Opcije za razmatranje: dodatna istraživanja, pilot programi, ili alternativne politike.
 
 ---
 
@@ -2000,7 +1997,7 @@ Fiskalni rizik je prevelik da bi bio prihvatljiv. Potrebna dodatna istraživanja
 
 **Pripremio:** Financial Modeling Economist
 **Datum:** 18. novembar 2025
-**Status:** FINALNA VERZIJA
+**Status:** ANALIZA ZAVRŠENA
 **Za:** Policy Decision - Checkpoint 2
 **Dužina:** ~25,000 reči (~25 strana)
 

@@ -137,15 +137,15 @@ Vizualizovati kao jedan popunjen pokazivac od vise mogucih (kvalitativni prikaz)
 
 ---
 
-## SEKCIJA 6: PREPORUKA (10% visine)
+## SEKCIJA 6: OPCIJE (10% visine)
 
 ### Layout: Decision box sa dve opcije
 
-### Leva strana: CRVENI BOX - "NE NASTAVITI"
+### Leva strana: NARANDZASTI BOX - "IDENTIFIKOVANI RIZICI"
 
-**Ikona:** X u krugu
+**Ikona:** Upozoravajuci trokut
 **Razlozi (bullet points):**
-- Vrlo niska sansa za prolazak kroz sve barijere
+- Niska sansa za prolazak kroz sve barijere
 - -45% fiskalni gubitak
 - Fragmentacija 170+ rezima
 

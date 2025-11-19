@@ -270,27 +270,27 @@ UKUPNA VEROVATNOĆA bar jednog rizika: ~70% ⚠️
 
 ---
 
-## 🚦 PREPORUKA ZA CHECKPOINT 2
+## 🚦 ANALIZA RIZIKA - CHECKPOINT 2
 
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│          🛑  STOP - NE NASTAVITI  🛑                     │
+│          ⚠️  IDENTIFIKOVANI RIZICI  ⚠️                  │
 │                                                         │
-│  Fiskalni rizik je prevelik da bi bio prihvatljiv      │
+│  Model pokazuje značajan fiskalni rizik                │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│ RAZLOZI:                                                │
+│ KLJUČNI NALAZI:                                         │
 │                                                         │
 │ 1. Očekivani gubitak: -45% (-143M EUR godišnje)        │
 │                                                         │
 │ 2. Verovatnoća profita: <10%                           │
 │                                                         │
-│ 3. Neizvesnost je ekstremna (nedostaju podaci)         │
+│ 3. Neizvesnost je visoka (nedostaju podaci)            │
 │                                                         │
 │ 4. Break-even je praktično nemoguć                     │
 │                                                         │
-│ 5. Bolje alternative postoje                           │
+│ 5. Postoje alternativne opcije                         │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -406,23 +406,23 @@ PRIMER FORMULE:
 
 ---
 
-## 🎯 FINALNA PORUKA
+## 🎯 ZAKLJUČAK ANALIZE
 
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║                                                       ║
-║  FISKALNI MODEL JE JASAN:                            ║
+║  KLJUČNI NALAZI MODELA:                              ║
 ║                                                       ║
-║  Aukcijski sistem NE MOŽE održati                    ║
-║  trenutne fiskalne prihode                           ║
+║  Model pokazuje značajan fiskalni rizik              ║
+║  za aukcijski sistem                                 ║
 ║                                                       ║
 ║  • Očekivani gubitak: -40%                           ║
 ║  • Verovatnoća profita: <10%                         ║
-║  • Neizvesnost: EKSTREMNA                            ║
+║  • Neizvesnost: Visoka                               ║
 ║                                                       ║
-║  PREPORUKA: STOP na Checkpoint 2                     ║
+║  OPCIJE ZA RAZMATRANJE:                              ║
 ║                                                       ║
-║  Razmotriti pilot program, RIA, ili alternative      ║
+║  Pilot program, RIA, ili alternativne politike       ║
 ║  pre full-scale implementacije                       ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝

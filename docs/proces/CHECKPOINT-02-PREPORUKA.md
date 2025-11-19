@@ -1,14 +1,14 @@
-# CHECKPOINT 2 - FISKALNA ANALIZA: FINALNA PREPORUKA
+# CHECKPOINT 2 - FISKALNA ANALIZA
 
-**POLICY DECISION POINT**
+**ANALIZA FISKALNIH EFEKATA**
 
 ---
 
 **Datum:** 18. novembar 2025
 **Za:** Senior Policy Advisor / Decision Maker
 **Od:** Financial Modeling Economist (SUBAGENT-03)
-**Predmet:** GO / NO-GO Decision za Narodnu inicijativu (Aukcijski model igara na sreću)
-**Status:** KRITIČNI DECISION POINT
+**Predmet:** Fiskalna analiza Narodne inicijative (Aukcijski model igara na sreću)
+**Status:** ANALIZA ZAVRŠENA
 
 ---
 
@@ -18,9 +18,9 @@
 
 **Može li predloženi aukcijski sistem za igre na sreću generisati iste ili veće fiskalne prihode od trenutnog sistema fiksnih naknada?**
 
-### Odgovor
+### Nalaz modela
 
-**NE. Fiskalni model NE PODRŽAVA nastavak analize.**
+**Model pokazuje značajan fiskalni rizik.**
 
 **Projekcija: Očekivani fiskalni gubitak od 143 miliona EUR godišnje (-45%)**
 
@@ -264,20 +264,18 @@ Primaoci sredstava (Crveni krst, sportske organizacije) mogu javno protestovati 
 
 ---
 
-## PREPORUKA
+## ANALIZA RIZIKA
 
-### GO / NO-GO DECISION
+### Ključni nalazi modela
 
-**PREPORUKA: NO-GO (STOP na Checkpoint 2)**
+### Razlozi za zabrinutost
 
-### Razlozi
-
-**1. FISKALNI RIZIK JE PREVELIK:**
+**1. FISKALNI RIZIK:**
 - Očekivani gubitak: **-45%** (-143M EUR godišnje)
 - Nijedan realistični scenario ne pokazuje fiskalni profit
 - Verovatnoća profita: <10%
 
-**2. NEIZVESNOST JE EKSTREMNA:**
+**2. VISOKA NEIZVESNOST:**
 - Nedostaju kritični empirijski podaci
 - Ključni parametri (elastičnost GGR) su nepoznati
 - Projekcije imају ogromne confidence intervale (120M - 260M EUR)
@@ -287,7 +285,7 @@ Primaoci sredstava (Crveni krst, sportske organizacije) mogu javno protestovati 
 - Čak i sa uspešnim aukcijama, ovaj pad eliminiše dobit
 - Break-even je praktično nemoguć
 
-**4. POSTOJE BOLJE ALTERNATIVE:**
+**4. ALTERNATIVNE OPCIJE:**
 - Enhanced enforcement postojećih pravila
 - Robusna online regulativa
 - Revenue sharing sa opštinama
@@ -427,23 +425,21 @@ Ove mere mogu adresirati problem BEZ fiskalnog rizika."
 
 ---
 
-## FINALNA PORUKA
+## ZAKLJUČAK ANALIZE
 
-**Model je JASAN: Fiskalni rizik je prevelik za GO decision.**
+**Ključni nalazi fiskalnog modela:**
 
 **Očekivani fiskalni gubitak:** **-45%** (-143M EUR godišnje)
 **Verovatnoća fiskalnog profita:** <10%
-**Neizvesnost:** EKSTREMNA
+**Neizvesnost:** Visoka
 
-**PREPORUKA: STOP na Checkpoint 2**
-
-**Alternativni koraci:**
+**Opcije za razmatranje:**
 1. Pilot program (2-3 opštine, 12-24 meseca)
 2. RIA studija (nezavisna, 3-6 meseci)
 3. Enhanced enforcement + tretman programi
 4. Revenue sharing ili opt-out mehanizmi
 
-**ODLUKA JE NA DONOSIOCU ODLUKE, ALI FISKALNI MODEL JE JEDNOZNAČAN.**
+**ODLUKA JE NA DONOSIOCU ODLUKE.**
 
 ---
 
@@ -453,13 +449,6 @@ Ove mere mogu adresirati problem BEZ fiskalnog rizika."
 
 **Pripremio:** Financial Modeling Economist (SUBAGENT-03)
 **Datum:** 18. novembar 2025
-**Status:** FINALNA PREPORUKA ZA CHECKPOINT 2
-**Klasifikacija:** CRITICAL DECISION POINT
-
----
-
-**DECISION REQUIRED: GO / NO-GO**
-
-**Preporučeno: NO-GO (STOP)**
+**Status:** ANALIZA ZAVRŠENA
 
 ---

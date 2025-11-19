@@ -30,9 +30,9 @@ Narodna inicijativa predlaze izmenu Zakona o igrama na srecu koja bi prenela nad
 | **FISKALNI** | Ocekivani gubitak 143M EUR godisnje | Scenariji bez empirijske validacije | KRITICAN - Model predvidja -45% prihoda |
 | **STRUKTURNI** | Fragmentacija na 170+ rezima | Visok rizik | VISOK - Operativni haos |
 
-### PREPORUKA
+### KLJUCNI NALAZ
 
-**NE NASTAVITI SA INICIJATIVOM u trenutnom obliku.** Fiskalni rizik (-45% prihoda = -143M EUR godisnje) je prevelik, pravne barijere ostaju visoke i nedovoljno razjasnjene, a alternativne politike mogu postici cilj bez ovih rizika.
+**Analiza ukazuje na znacajne rizike inicijative u trenutnom obliku.** Fiskalni rizik (-45% prihoda = -143M EUR godisnje), pravne barijere ostaju visoke i nedovoljno razjasnjene, dok alternativne politike mogu postici cilj sa manjim rizicima.
 
 ---
 
@@ -216,11 +216,11 @@ Procene rizika zasnovane su na iskustvu drugih trzista, a ne na domacim empirijs
 - **Problem je REALAN** - Srbija ima visoku gustinu kladionica i prevalencu zavisnosti
 - **Predlozeno resenje je PROBLEMATICNO** - pravni rizici, fiskalni gubitak, fragmentacija
 
-### Preporuka
-**NE NASTAVITI** sa inicijativom u trenutnom obliku zbog:
-1. Pravnih barijera (visok rizik blokade clana 48 i ustavnog spora, bez validiranog presedana)
-2. Fiskalnog rizika (-45% = -143M EUR godisnje prema scenariju bez empirijske validacije)
-3. Postojanja boljih alternativa
+### Kljucni nalazi
+Analiza identifikuje sledece rizike:
+1. Pravne barijere (visok rizik blokade clana 48 i ustavnog spora, bez validiranog presedana)
+2. Fiskalni rizik (-45% = -143M EUR godisnje prema scenariju bez empirijske validacije)
+3. Postojanje alternativnih pristupa sa manjim rizicima
 
 ### Sledeci koraci
 1. **HITNO:** Pravno misljenje o clanu 48 (2 nedelje)
@@ -241,9 +241,9 @@ Procene rizika zasnovane su na iskustvu drugih trzista, a ne na domacim empirijs
 
 ---
 
-**DECISION REQUIRED: GO / NO-GO**
+**ODLUKA JE NA DONOSIOCU ODLUKE**
 
-**PREPORUCENO: NO-GO**
+*Analiza zavrsena - svi podaci dostupni za informisanu odluku*
 
 ---
 

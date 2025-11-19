@@ -14,7 +14,7 @@
 |------|--------|-------|
 | `Fiskalni-Model-Aukcije.md` | ~25,000 reči (25 str) | Kompletan matematički model |
 | `Fiskalni-Model-Aukcije-SIMPLE.md` | ~1,500 reči (2 str) | Executive summary |
-| `CHECKPOINT-02-PREPORUKA.md` | ~3,500 reči (4 str) | GO/NO-GO decision point |
+| `CHECKPOINT-02-PREPORUKA.md` | ~3,500 reči (4 str) | Analiza fiskalnih efekata |
 | `FISKALNI-MODEL-README.md` | ~1,000 reči (1 str) | Navigation guide |
 
 **UKUPNO:** ~31,000 reči, ~32 strane
@@ -63,15 +63,14 @@
 
 **Verovatnoća fiskalnog profita:** <10% (heuristicka procena scenarija)
 
-### PREPORUKA
+### KLJUČNI NALAZI
 
-**STOP na Checkpoint 2**
+**Identifikovani rizici:**
 
-**Razlozi:**
 1. Očekivani fiskalni gubitak: -45%
-2. Neizvesnost ekstremna (nedostaju empirijski podaci)
+2. Neizvesnost visoka (nedostaju empirijski podaci)
 3. Break-even praktično nemoguć
-4. Postoje bolje alternative
+4. Postoje alternativne opcije
 
 ---
 
@@ -395,20 +394,18 @@ rezultat_C = fiskalni_model(0.70, 1.2, 1.2, 0.20)
 
 ---
 
-## Preporuka - Finalna potvrda
+## Zaključak analize - Finalna potvrda
 
-**GO / NO-GO DECISION: NO-GO (STOP)**
-
-**Razlozi (potvrđeno):**
+**Ključni nalazi:**
 
 1. **Fiskalni gubitak očekivan:** -45% (-143M EUR)
 2. **Verovatnoća profita:** <10% (heuristicka procena scenarija)
-3. **Neizvesnost:** EKSTREMNA (90% CI: 120M-260M EUR)
+3. **Neizvesnost:** Visoka (90% CI: 120M-260M EUR)
 4. **Break-even:** Praktično nemoguć
 5. **Rizici:** Visoki (collusion, offshore, grey market)
 6. **Alternative:** Postoje (enforcement, revenue sharing, opt-out)
 
-**Model je JASAN i JEDNOZNAČAN.**
+**Model identifikuje značajan fiskalni rizik.**
 
 ---
 
@@ -422,8 +419,7 @@ rezultat_C = fiskalni_model(0.70, 1.2, 1.2, 0.20)
 
 **Sledeći koraci:**
 - Prezentacija nalaza donosiocu odluke
-- Ako GO: Pilot program / RIA (ne preporučeno)
-- Ako NO-GO: Razmotriti alternativne politike
+- Opcije za razmatranje: Pilot program, RIA, alternativne politike
 
 ---
 
@@ -447,13 +443,13 @@ rezultat_C = fiskalni_model(0.70, 1.2, 1.2, 0.20)
 
 ---
 
-**FINALNA PORUKA:**
+**ZAKLJUČAK:**
 
 Model je **transparentan, verifikabilan i zasnovan na svim dostupnim podacima**.
 
-Projekcije pokazuju **visok fiskalni rizik** i **ekstremnu neizvesnost**.
+Projekcije pokazuju **značajan fiskalni rizik** i **visoku neizvesnost**.
 
-**PREPORUKA: STOP na Checkpoint 2**
+**Odluka je na donosiocu odluke.**
 
 ---
 

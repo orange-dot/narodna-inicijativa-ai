@@ -172,23 +172,23 @@ Primaoci sredstava mogu protestovati gubitak finansiranja.
 
 ---
 
-## PREPORUKA ZA CHECKPOINT 2
+## ANALIZA RIZIKA - CHECKPOINT 2
 
-### STOP - Ne nastaviti sa predlogom u trenutnom obliku
+### Ključni nalazi modela
 
-**RAZLOZI:**
+**IDENTIFIKOVANI RIZICI:**
 
-1. **Fiskalni rizik je prevelik:**
+1. **Fiskalni rizik:**
    - Očekivani gubitak: -45% (-143M EUR godišnje)
    - Verovatnoća profita: <10%
    - Break-even praktično nemoguć
 
-2. **Neizvesnost je ekstremna:**
+2. **Visoka neizvesnost:**
    - Nedostaju kritični empirijski podaci
    - Ključni parametri su nepoznati
    - Projekcije imaju ogromne opsege
 
-3. **Postoje bolje alternative:**
+3. **Alternativne opcije:**
    - Enhanced enforcement (200m od škola)
    - Online regulacija
    - Revenue sharing sa opštinama
@@ -243,18 +243,16 @@ Primaoci sredstava mogu protestovati gubitak finansiranja.
 
 ---
 
-## FINALNI ZAKLJUČAK
+## ZAKLJUČAK ANALIZE
 
-**MODEL JE JASAN: FISKALNI RIZIK JE PREVELIK**
+**KLJUČNI NALAZI MODELA:**
 
 - Ni jedan scenario ne pokazuje fiskalni profit
 - Očekivani gubitak: -45%
-- Neizvesnost je ekstremna
+- Neizvesnost je visoka
 - Alternative postoje
 
-**PREPORUKA: STOP na Checkpoint 2**
-
-Razmotriti pilot program, RIA, ili alternativne politike pre full-scale implementacije.
+Opcije za razmatranje: pilot program, RIA, ili alternativne politike pre full-scale implementacije.
 
 ---
 
@@ -262,4 +260,4 @@ Razmotriti pilot program, RIA, ili alternativne politike pre full-scale implemen
 
 **Pripremio:** Financial Modeling Economist
 **Datum:** 18. novembar 2025
-**Status:** FINALNI EXECUTIVE SUMMARY
+**Status:** ANALIZA ZAVRŠENA

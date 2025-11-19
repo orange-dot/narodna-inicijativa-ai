@@ -11,9 +11,9 @@
 ### 1. Za donosioca odluke (POČNI OVDE)
 
 **`CHECKPOINT-02-PREPORUKA.md`** (4 strane)
-- GO/NO-GO decision point
-- Ključni nalazi i preporuka
-- **PREPORUKA: STOP na Checkpoint 2**
+- Analiza fiskalnih efekata
+- Ključni nalazi i rizici
+- Opcije za razmatranje
 
 **`Fiskalni-Model-Aukcije-SIMPLE.md`** (2 strane)
 - Executive summary sa tabelama
@@ -58,8 +58,8 @@ Kontinuirani porezi (44% prihoda) strukturalno padaju zbog smanjenja broja objek
 **VEROVATNOĆA FISKALNOG PROFITA:**
 <10% (scenarijska procena bez empirijske validacije)
 
-**PREPORUKA:**
-**STOP na Checkpoint 2**
+**NALAZ:**
+Model identifikuje značajan fiskalni rizik
 
 ---
 
@@ -165,8 +165,8 @@ KLJUČNI PROBLEM:
 
 ---
 
-**FINALNA PREPORUKA: STOP NA CHECKPOINT 2**
+**ZAKLJUČAK ANALIZE**
 
-Fiskalni rizik je prevelik. Razmotriti pilot program ili alternativne politike.
+Model identifikuje značajan fiskalni rizik. Opcije za razmatranje: pilot program ili alternativne politike.
 
 ---

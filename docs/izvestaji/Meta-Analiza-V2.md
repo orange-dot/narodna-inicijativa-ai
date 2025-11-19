@@ -503,11 +503,11 @@ GGR_novo = GGR x (1 - redukcija x elasticnost) x (1 - offshore)
 
 **RIZIK POSTIZANJA STATED GOALS:** Značajan zbog online migracije i grey market-a
 
-### C. Preporuka za donosioca odluke
+### C. Opcije za donosioca odluke
 
-**OPCIJA 1: STOP NA PREDLOGU U TRENUTNOM OBLIKU**
+**OPCIJA 1: NE NASTAVITI SA PREDLOGOM U TRENUTNOM OBLIKU**
 
-**Obrazlozenje:**
+**Razlozi za razmatranje:**
 - Fiskalni rizik značajan (neizvesne projekcije)
 - Pravne barijere previse ozbiljne
 - Empirijski podaci ne postoje

@@ -28,7 +28,7 @@
 - Risk Analysis (collusion, failed auction, grey market)
 - Comparative Examples (Belgium, UK, Italy, Albania)
 - Final Assessment (weighted average: -45% loss)
-- Conclusions & Recommendations (STOP at Checkpoint 2)
+- Conclusions & Risk Analysis
 - Technical Appendix (formulas, Python code)
 
 **Key Mathematical Findings:**
@@ -53,8 +53,8 @@ PROBABILITY OF FISCAL PROFIT: <10%
 - Impact on designated beneficiaries (Red Cross, sports, etc.)
 - Risk matrix
 - Comparative examples
-- Recommendation: STOP
-- Alternative steps (pilot, RIA)
+- Risk analysis findings
+- Alternative options (pilot, RIA)
 - Final conclusion
 
 ---
@@ -192,23 +192,23 @@ Scenario B (50% reduction, realistic):
 
 ---
 
-## RECOMMENDATION FOR CHECKPOINT 2
+## RISK ANALYSIS FOR CHECKPOINT 2
 
-### 🛑 STOP - DO NOT PROCEED WITH PROPOSAL IN CURRENT FORM
+### ⚠️ KEY FINDINGS
 
-**REASONS:**
+**IDENTIFIED RISKS:**
 
-1. **Fiscal risk is too high:**
+1. **Fiscal risk:**
    - Expected loss: -45% (-143M EUR annually)
    - Probability of profit: <10%
    - Break-even practically impossible
 
-2. **Uncertainty is extreme:**
+2. **High uncertainty:**
    - Missing critical empirical data
    - Key parameters unknown
    - Projections have enormous ranges
 
-3. **Better alternatives exist:**
+3. **Alternative options available:**
    - Enhanced enforcement (200m from schools)
    - Online regulation strengthening
    - Revenue sharing with municipalities
@@ -361,7 +361,7 @@ Scenario B (50% reduction, realistic):
 ### ACTIONABILITY: HIGH
 
 **For Checkpoint 2 decision-maker:**
-- Clear recommendation: STOP
+- Clear risk analysis provided
 - Reasoning is transparent
 - Alternatives provided
 - Risks quantified
@@ -391,8 +391,8 @@ This fiscal model addresses the BIGGEST gap identified in all previous analyses:
 **Main Finding:**
 **Auction system CANNOT maintain current fiscal revenue levels. Expected loss: -40% (-129M EUR/year)**
 
-**Recommendation:**
-**STOP at Checkpoint 2. Consider pilot programs, RIA, or alternative policies before full implementation.**
+**Options for consideration:**
+Pilot programs, RIA, or alternative policies before full implementation.
 
 ---
 
