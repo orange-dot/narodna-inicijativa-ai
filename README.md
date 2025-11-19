@@ -79,13 +79,11 @@ Projekat koristi Claude Code subagente za specijalizovane analize:
 - Ustavnosudska analiza
 - Priprema RIA dokumentacije
 
-## Preporuka
+## Ključni nalazi analize
 
-**NE NASTAVITI SA INICIJATIVOM u trenutnom obliku.**
+Analiza identifikuje značajne pravne i fiskalne rizike inicijative u trenutnom obliku. Pravne barijere uključuju član 48 Zakona o referendumu i član 97 Ustava. Postoje alternativni pristupi koji nose manje rizike.
 
-Pravne barijere su visoke (član 48 Zakona o referendumu, član 97 Ustava), a alternativne politike mogu postići cilj bez ovih rizika.
-
-### Alternativne strategije
+### Alternativne strategije za razmatranje
 
 1. **Centralizovana regulatorna reforma** - Izmena zakona kroz redovnu proceduru
 2. **Gradualni pristup** - Postepeno smanjenje broja dozvola
