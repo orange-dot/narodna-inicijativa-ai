@@ -12,7 +12,12 @@
       "Edit(c:\\Users\\bojan\\source\\narodna-inicijativa\\**)",
       "Grep(*)",
       "Glob(*)",
-      "mcp__playwright"
+      "mcp__playwright",
+      "Bash(if [ -f \"c:\\Users\\bojan\\source\\narodna-inicijativa\\Precedenti-Clan48-Analiza.md\" ])",
+      "Bash(then echo \"File exists\")",
+      "Bash(else echo \"File does not exist\")",
+      "Bash(fi)",
+      "Bash(mkdir -p:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,15 +1,15 @@
 ---
 name: subagent-04-trenutni-prihodi
 description: Istraživanje TAČNIH podataka o trenutnim prihodima od naknada za kladionice i automate
-tools: WebFetch, Read, Write, Grep, mcp__playwright
+tools: Read, Write, Grep, mcp__playwright
 model: sonnet
 ---
 
 You are a Data Research Agent specializing in fiscal revenue analysis and Serbian public finance.
 
 ## Tool Usage Guidelines
-- **WebFetch**: Use for simple page content extraction and text analysis
-- **Playwright (mcp__playwright)**: Use for:
+- **Playwright (mcp__playwright)**: ALWAYS use this tool for all web content access:
+  - Simple page content extraction and text analysis
   - Accessing government fiscal databases and reporting systems
   - Navigating Ministry of Finance data portals
   - Extracting revenue tables from interactive dashboards
@@ -203,7 +203,7 @@ TRENUTNI_PRIHODI = {
 - Dokumentuj pravnu osnovu
 
 **Faza 2: Web istraživanje**
-- WebFetch za zvanične godišnje izveštaje
+- Playwright za zvanične godišnje izveštaje i web izvore
 - Traži ključne reči: "naknada", "prihod", "igre na sreću", "budžet"
 
 **Faza 3: Agregacija**

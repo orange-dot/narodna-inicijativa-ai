@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en-GB" class="no-skrollr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
+    <meta property="og:title" content="EGBA - Hello world!" />
+    <meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - EGBA</title>
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:title" content="Page not found - EGBA" />
+	<meta property="og:site_name" content="EGBA" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.egba.eu/#website","url":"https://www.egba.eu/","name":"EGBA","description":"European Gaming and Betting Association","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.egba.eu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="EGBA &raquo; Feed" href="https://www.egba.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="EGBA &raquo; Comments Feed" href="https://www.egba.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.egba.eu\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.12"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.egba.eu/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.8.12' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://www.egba.eu/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.egba.eu/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.egba.eu/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.12" />
+<link rel="icon" href="https://www.egba.eu/uploads/2018/10/cropped-egba_chip-e1540207575293-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.egba.eu/uploads/2018/10/cropped-egba_chip-e1540207575293-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.egba.eu/uploads/2018/10/cropped-egba_chip-e1540207575293-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.egba.eu/uploads/2018/10/cropped-egba_chip-e1540207575293-270x270.png" />
+    <!-- DEFINE ALL YOUR GOOGLE FONTS HERE AND NOT IN SCSS FILES E.g. -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://www.egba.eu/themes/egba/assets/css/app.css?id=c92577ebaebd16d6e92d">
+    <script src="https://www.egba.eu/themes/egba/assets/js/app.js?id=5ba50e4dcc034de1fa26"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6E6ZKMV4QV"></script>
+    <!-- Google Analytics -->
+        <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/082a28cb9fc83e0a178a5ca55/d9283e1146ad9b97d6171eded.js");</script>
+</head>
+
+<body class="error404">
+    <div class="wrapper">
+        <nav id="right-menu" class="slideout-menu slideout-menu-right"><div id="egba-mobile-nav-wrapper" class="menu-page-menu-container"><ul id="egba-mobile-nav" class="nav justify-content-end"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a href="https://www.egba.eu/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://www.egba.eu/about-us/egba-team/">EGBA Team</a></li>
+	<li id="menu-item-954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-954"><a href="https://www.egba.eu/about-us/standards/">Standards</a></li>
+	<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://www.egba.eu/about-us/membership/">Membership</a></li>
+	<li id="menu-item-2989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2989"><a href="https://www.egba.eu/about-us/benefits-of-membership/">Benefits of membership</a></li>
+	<li id="menu-item-2422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2422"><a href="https://egba.eu/subscribe/"><p style='margin-left:-605px; margin-top:-195px; font-size: 2rem; color:white'>Stay in the know</p> <p  style='margin-left:-605px; color:white; font-size: 1.2rem;'>Sign up for our newsletter</p></a></li>
+</ul>
+</li>
+<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-223"><a href="https://www.egba.eu/eu-market/">EU Market</a>
+<ul class="sub-menu">
+	<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://www.egba.eu/eu-market/info-maps/">Info Maps</a></li>
+	<li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="https://www.egba.eu/eu-market/licensing/">Licensing</a></li>
+	<li id="menu-item-2423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2423"><a href="https://egba.eu/subscribe/"><p style='margin-left:-700px; margin-top:-130px; font-size: 2rem; color:white'>Stay in the know</p> <p  style='margin-left:-700px; color:white; font-size: 1.2rem;'>Sign up for our newsletter</p></a></li>
+</ul>
+</li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31"><a href="https://www.egba.eu/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://www.egba.eu/resources/eu-policy-documents/">EU Policy &#038; Law</a></li>
+	<li id="menu-item-969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-969"><a href="https://www.egba.eu/resources/factsheets-infographics/">Factsheets &#038; Infographics</a></li>
+	<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://www.egba.eu/resources/positions/">Position Papers</a></li>
+	<li id="menu-item-970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-970"><a href="https://www.egba.eu/resources/statistics/">Statistics</a></li>
+	<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="https://www.egba.eu/resources/studies/">Studies</a></li>
+	<li id="menu-item-2424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2424"><a href="https://egba.eu/subscribe/"><p style='margin-left:-803px; margin-top:-322px; font-size: 2rem; color:white'>Stay in the know</p> <p  style='margin-left:-803px; color:white; font-size: 1.2rem;'>Sign up for our newsletter</p></a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30"><a href="https://www.egba.eu/news-media/">News &amp; Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="https://www.egba.eu/news-media/events/">Events</a></li>
+	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.egba.eu/news-media/newsletters/">Newsletters</a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.egba.eu/news-media/press-releases/">Press Releases</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://www.egba.eu/news-media/videos/">Videos</a></li>
+	<li id="menu-item-2425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2425"><a href="https://egba.eu/subscribe/"><p style='margin-left:-907px; margin-top:-259px; font-size: 2rem; color:white'>Stay in the know</p> <p  style='margin-left:-907px; color:white; font-size: 1.2rem;'>Sign up for our newsletter</p></a></li>
+</ul>
+</li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://www.egba.eu/about-us/contact-us/">Contact Us</a></li>
+</ul></div>        </nav>
+        <main id="main-panel" class="w-100 slideout-panel slideout-panel-right">
+            <header class="pt-md-2">
+                <div class="container">
+                    <div class="row row-logo-nav">
+                        <div class="navbar navbar-light navbar-toggleable-md bd-navbar" id="mobile-menu-icon">
+                            <button class="navbar-toggler toggle-button" type="button">
+                                <a href="#" id="right-nav-icon" class="hamburger-icon htx"><span></span></a>
+                            </button>
+                        </div>
+
+                        <div class="col-sm-12 text-sm-center col-md-5 col-lg-4" id="logo-col">
+                            <a href="https://www.egba.eu/" title="EGBA"><img src="https://www.egba.eu/themes/egba/assets/images/EGBA_Logo_red_RGB.svg" class="img-fluid EGBA_main_logo" alt="EGBA" /></a>
+                        </div>
+                        <div class="col-sm-12 col-md-7 pt-3 col-lg-8 text-center text-md-right mobile-nav-padding">
+                            <div class="row row-top-utility-nav">
+                                <div class="col-search col-sm-12 col-md-12 col-lg-8 text-sm-center text-md-right text-lg-right px-0">
+
+                                    <form role="search" action="https://www.egba.eu/" method="get" id="search_form">
+                                        
+                                                <a class="icon-link" target="_blank" href="https://www.linkedin.com/company/european-gaming-and-betting-association">
+                                                    <img class="img-fluid" src="https://www.egba.eu/uploads/2018/10/LinkedIn_Grey.png" alt="EGBA" width="30px">
+                                                </a>
+                                        
+                                                <a class="icon-link" target="_blank" href="https://x.com/EUgambling/">
+                                                    <img class="img-fluid" src="https://www.egba.eu/uploads/2024/10/xtwitter_Grey-150x150-1.png" alt="EGBA" width="30px">
+                                                </a>
+                                        
+                                                <a class="icon-link" target="_blank" href="https://www.youtube.com/channel/UCmF5TYQTMCzfdF7J3WnpV5A">
+                                                    <img class="img-fluid" src="https://www.egba.eu/uploads/2018/10/YouTube_Grey.png" alt="EGBA" width="30px">
+                                                </a>
+                                                                                <img class="icon-link img-fluid" id="search_icon" src="https://www.egba.eu/themes/egba/assets/images/icon-search.jpg" alt="Search" />
+                                        <input id="search_box" type="search" name="s" placeholder="enter keyword..." value="" title="Search for:" />
+                                        <button type="submit" value="Search" id="search_form_submit"></button>
+                                        <!--<a class="button-download py-2 px-3 newsletter-header" href="/subscribe">Sign up for our newsletter</a>-->
+                                    </form>
+                                </div>
+                                <div class="col-search col-sm-12 col-md-12 col-lg-4 text-sm-center text-md-right text-lg-right px-0">
+                                    <a class="button-download py-2 px-3 newsletter-header" href="/subscribe">Sign up for our newsletter</a>
+                                </div>
+                                <div class="clr30"></div>
+                                <div class="col-md-12 p-0"><div id="egba-main-nav-wrapper" class="menu-page-menu-container"><ul id="egba-main-nav" class="nav justify-content-end"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a href="https://www.egba.eu/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://www.egba.eu/about-us/egba-team/">EGBA Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-954"><a href="https://www.egba.eu/about-us/standards/">Standards</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://www.egba.eu/about-us/membership/">Membership</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2989"><a href="https://www.egba.eu/about-us/benefits-of-membership/">Benefits of membership</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2422"><a href="https://egba.eu/subscribe/"><p style='margin-left:-605px; margin-top:-195px; font-size: 2rem; color:white'>Stay in the know</p> <p  style='margin-left:-605px; color:white; font-size: 1.2rem;'>Sign up for our newsletter</p></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-223"><a href="https://www.egba.eu/eu-market/">EU Market</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://www.egba.eu/eu-market/info-maps/">Info Maps</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="https://www.egba.eu/eu-market/licensing/">Licensing</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2423"><a href="https://egba.eu/subscribe/"><p style='margin-left:-700px; margin-top:-130px; font-size: 2rem; color:white'>Stay in the know</p> <p  style='margin-left:-700px; color:white; font-size: 1.2rem;'>Sign up for our newsletter</p></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31"><a href="https://www.egba.eu/resources/">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://www.egba.eu/resources/eu-policy-documents/">EU Policy &#038; Law</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-969"><a href="https://www.egba.eu/resources/factsheets-infographics/">Factsheets &#038; Infographics</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://www.egba.eu/resources/positions/">Position Papers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-970"><a href="https://www.egba.eu/resources/statistics/">Statistics</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="https://www.egba.eu/resources/studies/">Studies</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2424"><a href="https://egba.eu/subscribe/"><p style='margin-left:-803px; margin-top:-322px; font-size: 2rem; color:white'>Stay in the know</p> <p  style='margin-left:-803px; color:white; font-size: 1.2rem;'>Sign up for our newsletter</p></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30"><a href="https://www.egba.eu/news-media/">News &amp; Media</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="https://www.egba.eu/news-media/events/">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.egba.eu/news-media/newsletters/">Newsletters</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.egba.eu/news-media/press-releases/">Press Releases</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://www.egba.eu/news-media/videos/">Videos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2425"><a href="https://egba.eu/subscribe/"><p style='margin-left:-907px; margin-top:-259px; font-size: 2rem; color:white'>Stay in the know</p> <p  style='margin-left:-907px; color:white; font-size: 1.2rem;'>Sign up for our newsletter</p></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://www.egba.eu/about-us/contact-us/">Contact Us</a></li>
+</ul></div>                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </header>
+            <!-- <div id="signup_nav" class="py-3">
+                <p class="signup-text">Stay in the know</p>
+            </div> -->
+
+
+            <!--SLIDER !!-->
+                <div class="gradient-background mb-5 py-4">
+                    <div class="container pl-3">
+                <h1 class="page-title pb-4 pt-5 m-0">
+                    Hello world!                </h1>
+            </div>
+            </div>
+    <div class="container-404">
+        <div class="container">
+            <div class="d-flex justify-content-center">
+            <img src="https://www.egba.eu/themes/egba/assets/images/404.jpg" alt="404 Page Not Found" width="700px" align="centre"></div>
+            <h2 class="text-center" style="text-align: center">Oops!</h2>
+            <p class="text-center">We can't seem to find the page you're looking for.</p>
+        </div>
+    </div>
+
+
+</main>
+<footer id="footer">
+    <div class="container social-media-links">
+        <div class="row mobile-padding">
+                                <div class="col-xs-2 pb-3 pt-5">
+                        <div>
+                            <a target="_blank" href="https://www.linkedin.com/company/european-gaming-and-betting-association">
+                                <img class="footer-icons" src="https://www.egba.eu/uploads/2018/10/LinkedIn_Grey.png" alt="EGBA" width="40px">
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-xs-2 pb-3 pt-5">
+                        <div>
+                            <a target="_blank" href="https://x.com/EUgambling/">
+                                <img class="footer-icons" src="https://www.egba.eu/uploads/2024/10/xtwitter_Grey-150x150-1.png" alt="EGBA" width="40px">
+                            </a>
+                        </div>
+                    </div>
+                                    <div class="col-xs-2 pb-3 pt-5">
+                        <div>
+                            <a target="_blank" href="https://www.youtube.com/channel/UCmF5TYQTMCzfdF7J3WnpV5A">
+                                <img class="footer-icons" src="https://www.egba.eu/uploads/2018/10/YouTube_Grey.png" alt="EGBA" width="40px">
+                            </a>
+                        </div>
+                    </div>
+                        </div>
+    </div>
+    <div class="row egba-footer">
+        <div class="container my-4 mobile-padding">
+            <img class="d-block mx-auto img-fluid" src="https://www.egba.eu/themes/egba/assets/images/EGBA_Logo_white_RGB.svg" alt="EGBA Logo" width="400px">
+            <p class="footer-text mt-2 mb-3"></p>
+            <p class="footer-text">EGBA is registered in the European Parliament and Commission Transparency Registry</p>
+            <p class="footer-text">
+                <span>&copy; 2025</span> | <a href="https://www.egba.eu/wordpress/terms-of-use">Terms of Use</a> | <a href="https://www.egba.eu/wordpress/privacy-cookie-policy">Privacy & Cookie Policy</a>
+            </p>
+            <p class="footer-text small mt-2">Designed and developed by <a href="http://acw.uk.com" target="_blank">ACW</a></p>
+        </div>
+
+
+    </div>
+</footer>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	  width="0" height="0" class="d-none" xml:space="preserve">
+    <defs>
+        <g id="egba-icon--arrow">
+            <polygon points="73.701,51.024 0,11.44 6.118,0 73.701,36.298 141.284,0 147.402,11.44 "/>
+        </g>
+    </defs>
+</svg><script type='text/javascript' src='https://www.egba.eu/wordpress/wp-includes/js/wp-embed.min.js?ver=5.8.12' id='wp-embed-js'></script>
+
+<!-- Cookie consent banner -->
+<div id="open_consent_container" class="hidden"><i class="fa fa-arrow-left" aria-hidden="true"></i> Cookie Policy</div>
+<div id="cookieconsent_container" class="">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8">
+                We use cookies in order improve your browsing experience on https://www.egba.eu, not to collect personal information. By continuing to use the site, you agree that that is OK.
+                                    You can read more about our privacy policy <a href="https://www.egba.eu/privacy-cookie-policy/">here</a>.
+                            </div>
+            <div class="col-xs-12 col-sm-4">
+                <a href="#" id="decline_cookies" data-consent="0" class="consent-decision">Decline</a>
+                <a href="#" id="allow_cookies" data-consent="1" data-url="https://www.egba.eu" class="btn consent-decision">Allow Cookies</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--//Cookie consent banner -->
+<script>
+    jQuery(document).ready(function($) {
+
+        let x = $(window).height() - $("#footer").outerHeight();
+        $('main').css({"min-height": x});
+
+
+        $( ".menu-item-has-children" ).mouseover(function() {
+           $('#signup_nav').show();
+           $( "#signup_nav, .newsletter-header, .signup-text" ).mouseover(function() {
+                $('.sub-menu').css({"visibility": visible});
+            });
+        });
+
+        $( ".menu-item-has-children" ).mouseleave(function() {
+            $('#signup_nav').hide();
+        });
+
+
+
+
+
+
+        let $open_consent_container = $('#open_consent_container');
+        let $cookie_consent_container = $('#cookieconsent_container');
+        let $consent_decision = $('.consent-decision');
+        let url = $('#allow_cookies').data('url');
+
+
+        $consent_decision.click(function(event) {
+            event.preventDefault();
+
+            let decision = $(this).data('consent');
+
+            $.get(url, {  consenting: '1', consent: decision }).done(function(response) {
+                let jsonResponse = JSON.parse(response);
+
+                if (typeof jsonResponse === 'object' && typeof jsonResponse['message'] !== 'undefined' ) {
+                    if ( jsonResponse.message === 'consented' )
+                        location.reload(true);
+                    else if ( jsonResponse.message === 'not_consented' ) {
+                        // They will eventually consent. Trust me
+                        location.reload(true);
+                    }
+                    else
+                        alert('Please enable cookies and try again');
+                }
+            });
+        });
+
+        $open_consent_container.click(function(event) {
+            event.preventDefault();
+            $(this).addClass('hidden');
+            $cookie_consent_container.removeClass('hidden');
+        });
+    });
+</script>
+</div>
+</body>
+</html>
