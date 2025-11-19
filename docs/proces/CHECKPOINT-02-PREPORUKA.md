@@ -405,9 +405,9 @@ Primaoci sredstava (Crveni krst, sportske organizacije) mogu javno protestovati 
 
 "Srbija JE na drugom mestu u Evropi po broju kladionica. 51,000-93,000 ljudi ima problema sa kockanjem. Ovo je REALAN problem koji zahteva REŠENJE."
 
-### 2. Ali fiskalni rizik je prevelik
+### 2. Fiskalni rizik je značajan
 
-"Matematički model pokazuje očekivani gubitak od 143 miliona EUR godišnje. To znači manje sredstava za Crveni krst, sport, socijalu zaštitu. Odgovorno upravljanje budžetom zahteva da ne rizikujemo ovako velike gubitke bez čvrstih podataka."
+"Matematički model pokazuje očekivani gubitak od 143 miliona EUR godišnje. To znači manje sredstava za Crveni krst, sport, socijalu zaštitu. Odluka zahteva pažljivo razmatranje ovih projekcija."
 
 ### 3. Alternative se razmatraju
 

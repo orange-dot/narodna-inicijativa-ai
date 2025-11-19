@@ -505,7 +505,7 @@ GGR_novo = GGR x (1 - redukcija x elasticnost) x (1 - offshore)
 
 ### C. Opcije za donosioca odluke
 
-**OPCIJA 1: NE NASTAVITI SA PREDLOGOM U TRENUTNOM OBLIKU**
+**OPCIJA 1: RAZMOTRITI ALTERNATIVNE PRISTUPE**
 
 **Razlozi za razmatranje:**
 - Fiskalni rizik značajan (neizvesne projekcije)

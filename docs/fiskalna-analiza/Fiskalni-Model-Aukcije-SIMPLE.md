@@ -231,8 +231,8 @@ Primaoci sredstava mogu protestovati gubitak finansiranja.
    - Srbija drugo mesto u Evropi
    - Socijalni troškovi su značajni
 
-2. **Ali fiskalni rizik je prevelik:**
-   - Gubitak 143M EUR godišnje
+2. **Fiskalni rizik je znacajan:**
+   - Projekcija gubitka 143M EUR godišnje
    - Utiče na Crveni krst, sport, socijalnu zaštitu
    - Empirijski podaci ne postoje
 

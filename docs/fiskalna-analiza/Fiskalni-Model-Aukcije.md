@@ -1697,9 +1697,9 @@ Ovo može uzrokovati politički otpor od strane primaoca sredstava.
 - Oba su NEPOZNATI sa sigurnošću
 
 **4. Da li predlog ima fiskalni smisao?**
-- **ODGOVOR: NE**
-- Fiskalni rizik je prevelik
-- Neizvesnost je ekstremna
+- **ODGOVOR: Model pokazuje značajan rizik**
+- Fiskalni rizik je značajan
+- Neizvesnost je visoka
 - Alternativne politike su dostupne
 
 ---

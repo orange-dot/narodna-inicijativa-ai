@@ -32,7 +32,7 @@ Narodna inicijativa predlaze izmenu Zakona o igrama na srecu koja bi prenela nad
 
 ### KLJUCNI NALAZ
 
-**Analiza ukazuje na znacajne rizike inicijative u trenutnom obliku.** Fiskalni rizik (-45% prihoda = -143M EUR godisnje), pravne barijere ostaju visoke i nedovoljno razjasnjene, dok alternativne politike mogu postici cilj sa manjim rizicima.
+**Analiza identifikuje znacajne rizike inicijative u trenutnom obliku.** Fiskalni rizik (-45% prihoda = -143M EUR godisnje), pravne barijere ostaju visoke i nedovoljno razjasnjene. Postoje alternativni pristupi koji nose manje rizike.
 
 ---
 
